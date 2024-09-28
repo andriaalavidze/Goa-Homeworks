@@ -35,24 +35,24 @@ console.log(a ** b)
 
 
 // #6
-let num = 2;
-console.log(num ** 5)
+// let num = 2;
+// console.log(num ** 5)
 
-// #9
-let num1 = 12;
-let num2 = 11;
-console.log(a > b)
-console.log(a < b)
-console.log(a >= b)
-console.log(a <= b)
-console.log(a == b)
-console.log(a === b)
-console.log(a != b)
-console.log(a !== b)
+// // #9
+// let num1 = 12;
+// let num2 = 11;
+// console.log(a > b)
+// console.log(a < b)
+// console.log(a >= b)
+// console.log(a <= b)
+// console.log(a == b)
+// console.log(a === b)
+// console.log(a != b)
+// console.log(a !== b)
 
 
-// #10
-let num1 = "10";
-let num2 = 10;
-console.log(num1 == num2)
-console.log(num1 === num2)
+// // #10
+// let num1 = "10";
+// let num2 = 10;
+// console.log(num1 == num2)
+// console.log(num1 === num2)
