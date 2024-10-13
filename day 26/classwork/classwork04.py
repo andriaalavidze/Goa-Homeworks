@@ -1,2 +1,2 @@
-sentense = "goa is the best programming academy"
-print(sentense.count("a"))
+user_name = input("enter your username: ").lower()
+print(user_name)
